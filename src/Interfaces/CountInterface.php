@@ -2,7 +2,7 @@
 
 namespace ZnDomain\Domain\Interfaces;
 
-use ZnCore\Query\Entities\Query;
+use ZnDomain\Query\Entities\Query;
 
 interface CountInterface extends \Countable
 {

@@ -3,7 +3,7 @@
 namespace ZnDomain\Domain\Traits;
 
 use ZnDomain\Domain\Enums\EventEnum;
-use ZnCore\Query\Entities\Query;
+use ZnDomain\Query\Entities\Query;
 
 trait ForgeQueryTrait
 {

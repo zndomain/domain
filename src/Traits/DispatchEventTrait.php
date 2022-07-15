@@ -5,7 +5,7 @@ namespace ZnDomain\Domain\Traits;
 use ZnDomain\Domain\Events\EntityEvent;
 use ZnDomain\Domain\Events\QueryEvent;
 use ZnCore\EventDispatcher\Traits\EventDispatcherTrait;
-use ZnCore\Query\Entities\Query;
+use ZnDomain\Query\Entities\Query;
 
 trait DispatchEventTrait
 {

@@ -3,7 +3,7 @@
 namespace ZnDomain\Domain\Interfaces;
 
 use ZnCore\Collection\Interfaces\Enumerable;
-use ZnCore\Query\Entities\Query;
+use ZnDomain\Query\Entities\Query;
 
 interface FindAllInterface
 {
